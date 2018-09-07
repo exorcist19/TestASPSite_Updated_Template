@@ -1,0 +1,120 @@
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\TestASPSite.dll.config
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\TestASPSite.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\TestASPSite.pdb
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\csc.exe
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\csc.exe.config
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\csc.rsp
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\csi.exe
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\csi.exe.config
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\csi.rsp
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\Microsoft.Managed.Core.targets
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\System.AppContext.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\System.Collections.Immutable.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\System.Console.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\System.IO.Compression.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\System.IO.FileSystem.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\System.IO.Pipes.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\System.Security.AccessControl.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\System.Security.Claims.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\System.ValueTuple.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\System.Xml.XPath.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\vbc.exe
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\vbc.exe.config
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\vbc.rsp
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\VBCSCompiler.exe
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\roslyn\VBCSCompiler.exe.config
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\obj\Debug\TestASPSite.csprojAssemblyReference.cache
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\obj\Debug\TestASPSite.csproj.CoreCompileInputs.cache
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\obj\Debug\TestASPSite.csproj.CopyComplete
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\obj\Debug\TestASPSite.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\obj\Debug\TestASPSite.pdb
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\Google.Protobuf.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\MySql.Data.dll
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\Google.Protobuf.xml
+c:\users\techninja\source\repos\TestASPSite\TestASPSite\bin\MySql.Data.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\TestASPSite.dll.config
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\TestASPSite.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\TestASPSite.pdb
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\csc.exe
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\csc.exe.config
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\csc.rsp
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\csi.exe
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\csi.exe.config
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\csi.rsp
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\System.AppContext.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\System.Console.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\vbc.exe
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\vbc.exe.config
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\vbc.rsp
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\Google.Protobuf.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\MySql.Data.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\Google.Protobuf.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\MySql.Data.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\obj\Debug\TestASPSite.csprojResolveAssemblyReference.cache
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\obj\Debug\TestASPSite.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\obj\Debug\TestASPSite.pdb
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\obj\Debug\TestASPSite.csproj.CoreCompileInputs.cache
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\TestASPSite_Updated_Template\TestASPSite\obj\Debug\TestASPSite.csproj.CopyComplete
